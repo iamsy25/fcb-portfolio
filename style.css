@@ -28,7 +28,7 @@ body{
 }
 
 #landing{
-	height: 50vh; /* vh stands for view hight */
+	height: 75vh; /* vh stands for view hight */
 	/* background-color: black; */
 
 	/*align terms in 1 column only, then position all included contents in center */
